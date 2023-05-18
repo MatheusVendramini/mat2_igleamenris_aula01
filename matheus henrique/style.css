@@ -1,0 +1,72 @@
+header {
+    background-color: #0077ff;
+    color: rgb(0, 0, 0);
+}
+.cabecalho-imagem{
+    width: 80%;
+}                              
+.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 67px 0;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+.escola-imagem{
+    width: 40%;
+
+}
+.escola{
+    background-image:(#424E61,#16CFF8);
+    color: white;
+}
+.escola{
+    background-image: Menris(#424E61,#16CFF8);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 20%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}body {
+    font-family: 'Poppins', sans-serif;
+}
+.estudante-imagem{
+    width: 120px;
+}
+.estudante-icone{
+    width: 24px;
+    padding: 4px 8px;
+}
+.estudante-todos{
+    display: grid;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 24px 0;
+}
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+   .rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+
+}
